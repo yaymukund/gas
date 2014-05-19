@@ -1,0 +1,23 @@
+{
+  "name": "gas",
+  "version": "0.0.0",
+  "description": "A server for maintaing client state for ditty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaymukund/gas.git"
+  },
+  "author": "Mukund Lakshman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaymukund/gas/issues"
+  },
+  "homepage": "https://github.com/yaymukund/gas",
+  "dependencies": {
+    "primus": "^2.2.1",
+    "engine.io": "^1.2.0"
+  }
+}
